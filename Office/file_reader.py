@@ -12,11 +12,11 @@ def bin2matnp(Input,receiver_num):
     if receiver_num==1:
         input_numpy = np.fromfile(str(Input), dtype=np.float32)
         input_numpy_ = array_to_matrix(input_numpy)
-        input_numpy_ = input_numpy_-29*np.ones(np.shape(input_numpy_))#power reference of RF0 is 29dB
+        input_numpy_ = input_numpy_-29*np.ones(np.shape(input_numpy_))#power reference of R1 is 29dB
     elif receiver_num==2:
         input_numpy = np.fromfile(str(Input), dtype=np.float32)
         input_numpy_ = array_to_matrix(input_numpy)
-        input_numpy_ = input_numpy_-14*np.ones(np.shape(input_numpy_))#power reference of RF0 is 14dB
+        input_numpy_ = input_numpy_-14*np.ones(np.shape(input_numpy_))#power reference of R2 is 14dB
     else:
         raise ValueError("Wrong number was assigned in the second argument!!")
     return input_numpy_    
