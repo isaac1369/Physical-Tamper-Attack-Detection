@@ -1,4 +1,4 @@
-# Dataset Strucutre
+# Physical Tamper Attack Detection Dataset Strucutre
 This repo provides a structured dataset of OFDM CSI estimates in two environments (office and hall) each in different scenarios acquired with a software-defined radio and the Gnuradio OFDM project (https://github.com/rwth-ti/gr-ofdm). The parameters and scenarios were selected as described in the following.
 
 ## Acquisition
