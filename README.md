@@ -16,7 +16,7 @@ Since discriminating between environmental changes and physical tamper attacks i
 ![acquisition of data](scenario.png)
 
 ## Datasets
-The filename indicates environment_orientation_scenario_Receiver number in order. In these files, the number of rows indicates the number of packets that were captured and the number of columns shows the number of subcarriers which is 208 in this work. The file format is .float and can be easily convert to an excel file (an example python file was uploaded in the office directory).
+The filename of each dataset indicates environment_orientation_scenario_Receiver number in order. In these files, the number of rows indicates the number of packets that were captured and the number of columns shows the number of subcarriers which is 208 in this work. The file format is .float and can be easily convert to an excel file (an example python file was uploaded in the office directory).
 
 ### Environments
 * office: A congested room with chairs, tables and things mounted to the walls.
