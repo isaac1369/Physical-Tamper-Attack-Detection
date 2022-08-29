@@ -22,7 +22,7 @@ def bin2matnp(Input,receiver_num):
     return input_numpy_    
 ################
 def array_to_matrix(array_input):
-    if len(array_input)%208!=0:
+    if len(array_input)%208!=0:#number of subcarrier is 208
         raise ValueError("BOOM")
     return np.reshape(array_input,(int(len(array_input)/208),208))    
 ################  
