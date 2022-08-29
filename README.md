@@ -28,7 +28,7 @@ All data sets are stored as a binary file. To load a specific dataset you can us
 ## Check also our paper
 1. https://ieeexplore.ieee.org/abstract/document/9403404
 
-## Authors
+## Author
 Eshagh Dehmollaian<br>
 
 Institute for Communications Engineering and RF-Systems<br>
