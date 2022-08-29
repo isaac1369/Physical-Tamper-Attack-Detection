@@ -23,7 +23,7 @@ The filename of each dataset indicates environment_orientation_scenario_Receiver
 * hall: A narrow corridor with flat uncongested walls which are present in many public buildings.
 
 ## How to use our datasets
-All data sets are stored as a binary file. To load a specific dataset you can use like the file uploaded in the office directory.
+All data sets are stored as a binary file. To load a specific dataset you can use the file uploaded in the main directory with the name "file_reader.py".
 
 ## Check also our paper
 1. https://ieeexplore.ieee.org/abstract/document/9403404
