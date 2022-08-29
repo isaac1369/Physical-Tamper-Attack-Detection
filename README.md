@@ -26,7 +26,7 @@ The filename indicates environment_orientation_scenario_Receiver number in order
 All data sets are stored as a binary file. To load a specific dataset you can use like the file uploaded in the office directory.
 
 ## Check also our paper
-Link to be added.
+1. https://ieeexplore.ieee.org/abstract/document/9403404
 
 ## Authors
 Eshagh Dehmollaian<br>
