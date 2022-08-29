@@ -19,8 +19,8 @@ Since discriminating between environmental changes and physical tamper attacks i
 The filename of each dataset indicates environment_orientation_scenario_Receiver number in order. In these files, the number of rows indicates the number of packets that were captured and the number of columns shows the number of subcarriers which is 208 in this work. The file format is .float and can be easily convert to an excel file (an example python file was uploaded in the office directory).
 
 ### Environments
-* office: A congested room with chairs, tables and things mounted to the walls.
-* hall: A narrow corridor with flat uncongested walls which are present in many public buildings.
+* Office: A congested room with chairs, tables and things mounted to the walls.
+* Hall: A narrow corridor with flat uncongested walls which are present in many public buildings.
 
 ## How to use our datasets
 All data sets are stored as a binary file. To load a specific dataset you can use the file uploaded in the main directory with the name "file_reader.py".
