@@ -27,6 +27,7 @@ All data sets were stored as binary files. You can load each of them as in the"f
 
 ## Check also our paper
 1. https://ieeexplore.ieee.org/abstract/document/9403404
+2. https://www.mdpi.com/1424-8220/22/17/6547
 
 ## Author
 Eshagh Dehmollaian<br>
