@@ -26,8 +26,9 @@ The filename of each dataset indicates environment_orientation_scenario_Receiver
 All data sets were stored as binary files. You can load each of them as in the"file_reader.py" in the Office directory or whatever way you want. Just be aware that the power reference of R1 is 29dB and R2 is 14dB. Therefore, consider it in your file conversion. 
 
 ## Check also our paper
-1. https://ieeexplore.ieee.org/abstract/document/9403404
-2. https://www.mdpi.com/1424-8220/22/17/6547
+1. DOI: 10.3390/s22176547
+2. DOI: 10.1109/LWC.2021.3072937
+
 
 ## Author
 Eshagh Dehmollaian<br>
